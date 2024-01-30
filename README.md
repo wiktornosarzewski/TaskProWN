@@ -22,14 +22,14 @@ TaskProWN v18
 
 Klawisze funkcyjne od F1 do F8 keys służą do zmiany ustawień:
 
-F1 = przemieść okno w lewy górny róg,
-F2 = przemieść okno w prawy górny róg,
-F3 = przemieść okno w lewy dolny róg,
-F4 = przemieść okno w prawy dolny róg,
-F5 = pokaż pasek systemowy (zamykanie)
-F6 = przezroczystość poziom maksymalny (50%)
-F7 = przezroczystość poziom domyślny (70%)
-F8 = wyłącz przezroczystość - widoczność 100%
+- F1 = przemieść okno w lewy górny róg,
+- F2 = przemieść okno w prawy górny róg,
+- F3 = przemieść okno w lewy dolny róg,
+- F4 = przemieść okno w prawy dolny róg,
+- F5 = pokaż pasek systemowy (zamykanie)
+- F6 = przezroczystość poziom maksymalny (50%)
+- F7 = przezroczystość poziom domyślny (70%)
+- F8 = wyłącz przezroczystość - widoczność 100%
 
 Naciśnij na pasek windows, kiedy na dole (F3/F4), żeby zmniejszyć okno.
 
