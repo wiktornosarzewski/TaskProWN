@@ -1,5 +1,7 @@
 TaskProWN v18
 
+A very fast application written in python that displays CPU, RAM and C disk usage in real time.
+
     Transparent alpha level 0.70/0.50/1.0
 
 Use F1 to F8 keys to change app settings:
@@ -17,6 +19,8 @@ Press the windows bar at the bottom (F3/F4) to shrink the window.
 
 [PL]
 TaskProWN v18
+
+Bardzo szybka aplikacja napisana w python, która wyświetla użycie CPU, RAM i dysku C w czasie rzeczywistym.
 
     Poziomy przezroczystości: 0.70/0.50/1.0 [alpha]
 
