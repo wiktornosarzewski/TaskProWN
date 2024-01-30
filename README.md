@@ -2,6 +2,9 @@ TaskProWN v18
 
 A very fast application written in python that displays CPU, RAM and C disk usage in real time.
 
+![TaskProV18](https://github.com/wiktornosarzewski/TaskProWN/assets/22853678/67958e7e-a71c-486b-bbc3-7bac857bfee9)
+
+
     Transparent alpha level 0.70/0.50/1.0
 
 Use F1 to F8 keys to change app settings:
@@ -38,3 +41,7 @@ Klawisze funkcyjne od F1 do F8 keys służą do zmiany ustawień:
 Naciśnij na pasek windows, kiedy na dole (F3/F4), żeby zmniejszyć okno.
 
 Full Changelog: https://github.com/wiktornosarzewski/TaskProWN/commits/v18
+
+![ProTaskWN1](https://github.com/wiktornosarzewski/TaskProWN/assets/22853678/e1914e6f-46f7-4a15-85b0-c9a51c3dae6a)
+
+![ProTaskWN3](https://github.com/wiktornosarzewski/TaskProWN/assets/22853678/ab8ae394-1157-402e-92e6-0cf391d9c67e)
