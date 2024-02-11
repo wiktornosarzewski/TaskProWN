@@ -1,4 +1,4 @@
-TaskProWN v18
+TaskProWN v19
 
 A very fast application written in python that displays CPU, RAM and C disk usage in real time.
 
